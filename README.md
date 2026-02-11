@@ -8,7 +8,7 @@ A modern web application for discovering, exploring, and saving your favorite mo
 
 ## 🌐 Live Demo
 
-**[View Live App](https://movie-explorer-demo.vercel.app)** *(Update this link after deployment)*
+**[View Live App](https://movie-explorer-demo.vercel.app)**
 
 ## ✨ Features
 

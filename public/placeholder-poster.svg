@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="342" height="513" viewBox="0 0 342 513" fill="none">
+  <rect width="342" height="513" fill="#27272a"/>
+  <path d="M127 224V288M215 224V288M111 240H127M215 240H231M111 256H231M111 272H127M215 272H231M120 296H222C226.418 296 230 292.418 230 288V224C230 219.582 226.418 216 222 216H120C115.582 216 112 219.582 112 224V288C112 292.418 115.582 296 120 296Z" stroke="#52525b" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="171" y="340" text-anchor="middle" fill="#71717a" font-family="system-ui" font-size="16">No Image</text>
+</svg>
